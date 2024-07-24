@@ -4,7 +4,7 @@
 
 ### Quik Intro :
 
-A website for a fictitious restaurant.
+This website, designed for a fictional restaurant, was created using HTML and CSS to showcase my skills in web design. It features four main pages and incorporates an external map to display the restaurant’s location. The clean, visually appealing layout highlights my proficiency in crafting well-structured and responsive web pages with HTML and CSS.
 
 ---
 
@@ -55,6 +55,6 @@ A website for a fictitious restaurant.
 
 ---
 
-### [link](https://competent-easley-7a403a.netlify.app) to the website
+### [link](https://restaurantmhh.netlify.app/) to the website
 
 ---
